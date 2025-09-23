@@ -1,14 +1,13 @@
-Trabalho da Matéria Banco de Dados 
-Repositório criado para o trabalho de Banco de Dados da Universidade Uninassau
+# Trabalho da Máteria de Banco de Dados 
+### repositório criado para a execução do trabalho proposto pelo Professor Sergio da universidade Uninassau
+_*Estrutura do repositório:*_
+1. Consultas.SQL : contém as consultas realizadas para a conclusão do trabalho.
+2. superheroes.db: banco de dados disponibilizado pelo professor da disciplina.
 
-Estrutura do repositório:
-consultas.sql: contém as consultas SQL pedidas na Parte 1 do exercício.
-superheroes.db: banco de dados SQLite fornecido pelo professor.
-README.md: documentação do projeto.
-Consultas implementadas
-Listar todos os super-heróis.
-Listar apenas nome e publisher.
-Selecionar heróis de uma editora específica (publisher_id = 1).
-Selecionar heróis cujo nome contém a letra "S".
-Selecionar heróis cujo publisher_id está em (1,2,3).
-Selecionar heróis do publisher_id = 1 ou cujo nome começa com "B".
+## Consultas implementadas
+1. Listar todos os super-heróis.
+2. Listar apenas nome e publisher.
+3. Selecionar heróis de uma editora específica (publisher_id = 1).
+4. Selecionar heróis cujo nome contém a letra "S".
+5. Selecionar heróis cujo publisher_id está em (1,2,3).
+6. Selecionar heróis do publisher_id = 1 ou cujo nome começa com "B".
